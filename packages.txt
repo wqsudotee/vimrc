@@ -1,0 +1,9 @@
+ale
+ctrlp.vim
+helm
+julia-vim
+lightline.vim
+neocomplete.vim
+packages.txt
+tagbar
+vim-polyglot
